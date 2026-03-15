@@ -50,6 +50,12 @@
     --shadow-card: 0 4px 6px -1px rgb(0 0 0 / 0.3), 0 2px 4px -2px rgb(0 0 0 / 0.2);
     --shadow-elevated: 0 10px 30px -10px rgb(0 0 0 / 0.5);
     --timeline-color: hsl(230 60% 65%);
+
+    /* Section accent colors */
+    --work-accent: 230 60% 65%;
+    --education-accent: 160 50% 50%;
+    --project-accent: 280 50% 60%;
+    --skill-accent: 35 80% 55%;
   }
 }
 
