@@ -62,6 +62,10 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        work: "hsl(var(--work-accent))",
+        education: "hsl(var(--education-accent))",
+        project: "hsl(var(--project-accent))",
+        skill: "hsl(var(--skill-accent))",
       },
       borderRadius: {
         lg: "var(--radius)",
